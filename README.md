@@ -53,7 +53,7 @@ Os dados utilizados no projeto estão disponíveis para download no Google Drive
 ### 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/MatheusGuimaraes007/FivePersonalityTraits.git
+git clone https://github.com/MatheusGuimaraes007/BigFiveClusteringPersonalityTraits.git
 cd FivePersonalityTraits
 ```
 
